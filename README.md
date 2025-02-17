@@ -15,7 +15,7 @@
 
 7: Remember Login for Multiple Entry.
 
-## Language: HTML, CSS , PHP , SQL, JSON Data
+## Language: HTML, CSS , PHP , SQL, XML Data
 ## DataBase: MySQL DataBase
 ## Tools: Visual Studio Code, Xampp(Apache)Server.
 
